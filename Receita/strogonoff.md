@@ -23,3 +23,36 @@
 5. Adicione agora o molho de tomate e deixe ferver por aproximadamente 5 minutos.
 6. Desligue o fogo e adicione o creme de leite.
 7. Para acompanhar esse prato é arroz e batata palha
+
+# Strogonoff de 🥩
+
+## Ingredientes
+
+1. 400g de carne (filé mignon, chã de dentro ou alcatra)
+2. Pimenta
+3. Cominho
+4. Sal
+5. 1/2 cebola ralada
+6. 1 caixa e meia de creme de leite
+7. 3 colheres (sopa) de catchup
+8. 3 colheres (sopa) de extrato de tomate
+9. 1 colher (sopa) de mostarda
+10. Óleo para fritar
+
+## Modo de preparo :fork_and_knife:
+
+###🥩
+
+1. Corte a carne selecionada em tirinhas, tempere com a pimenta cominho e sal (eu coloco 1 ou 2 pitadas de cada, no máximo).
+2. Deixe descansar a carne por 20 minutos para apurar o gosto.
+3. Coloque óleo suficiente para fritar poucas quantidades de tirinhas (7 ou 8), esquente bem o óleo.
+4. Comece a fritura com poucas tirinhas para que o óleo não vire uma sopa, retire as tiras e reserve.
+5. Não deixe fritar muito para que a carne não fique dura.
+
+## 🥣
+
+1. Troque o óleo da panela e refogue a cebola ralada.
+2. Depois de dourada, jogue todas as tirinhas de carne dentro da panela e mexa.
+3. Frite por 3 minutos e jogue na panela o creme de leite, catchup, extrato de tomate e mostarda.
+4. Deixe ferver um pouco, sempre misturando.
+5. Sirva com arroz branco e batata palha.
