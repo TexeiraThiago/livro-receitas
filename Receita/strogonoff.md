@@ -1,4 +1,4 @@
-# Strogonoff de :chicken:
+# Strogonoff de 🍗
 
 ## Ingredientes
 
