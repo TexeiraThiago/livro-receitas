@@ -28,20 +28,20 @@
 
 ## Ingredientes
 
-1. 400g de carne (filé mignon, chã de dentro ou alcatra)
-2. Pimenta
-3. Cominho
-4. Sal
-5. 1/2 cebola ralada
-6. 1 caixa e meia de creme de leite
-7. 3 colheres (sopa) de catchup
-8. 3 colheres (sopa) de extrato de tomate
-9. 1 colher (sopa) de mostarda
-10. Óleo para fritar
+- 400g de carne (filé mignon, chã de dentro ou alcatra)
+- Pimenta
+- Cominho
+- Sal
+- 1/2 cebola ralada
+- 1 caixa e meia de creme de leite
+- 3 colheres (sopa) de catchup
+- 3 colheres (sopa) de extrato de tomate
+- 1 colher (sopa) de mostarda
+- Óleo para fritar
 
-## Modo de preparo :fork_and_knife:
+# Modo de preparo :fork_and_knife:
 
-###🥩
+# 🥩
 
 1. Corte a carne selecionada em tirinhas, tempere com a pimenta cominho e sal (eu coloco 1 ou 2 pitadas de cada, no máximo).
 2. Deixe descansar a carne por 20 minutos para apurar o gosto.
