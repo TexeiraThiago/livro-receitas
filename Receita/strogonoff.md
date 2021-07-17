@@ -14,7 +14,7 @@
 - 1/2 sachê de molho de tomate
 - 1 lata de creme de leite
 
-# Modo de Preparo :fork_and_knife:
+## Modo de Preparo :fork_and_knife:
 
 1. Corte o frango em cubinhos.
 2. Em uma panela, coloque o azeite, o alho e a cebola.
@@ -23,6 +23,10 @@
 5. Adicione agora o molho de tomate e deixe ferver por aproximadamente 5 minutos.
 6. Desligue o fogo e adicione o creme de leite.
 7. Para acompanhar esse prato é arroz e batata palha
+
+---
+
+
 
 # Strogonoff de 🥩
 
@@ -39,7 +43,7 @@
 - 1 colher (sopa) de mostarda
 - Óleo para fritar
 
-# Modo de preparo :fork_and_knife:
+## Modo de preparo :fork_and_knife:
 
 # 🥩
 
@@ -56,3 +60,51 @@
 3. Frite por 3 minutos e jogue na panela o creme de leite, catchup, extrato de tomate e mostarda.
 4. Deixe ferver um pouco, sempre misturando.
 5. Sirva com arroz branco e batata palha.
+
+
+
+---
+
+
+
+# Strogonoff de Palmito :seedling:
+
+## Ingredientes
+
+- 300g de palmito
+- 1/2 xícara (chá) de cebola 
+- 4 dentes de alho
+- 100g de champignon em conserva
+- 4 tomates
+- 1 xícara (chá) de aveia em flocos
+- 2 xícaras (chá) de água 
+- sal a gosto
+- 2 colheres (sopa) de mostarda
+- 1 xícara (chá) de salsinha
+- 1/4 xícara (chá) de pimentão vermelho
+- 1/2 xícara (chá) de grão-de-bico
+- 1/2 xícara (chá) de água 
+
+
+
+## Modo de Preparo :fork_and_knife:
+
+  1. Em um liquidificador, coloque a aveia e a água(2 xícaras) e deixe de molho por 30 minutos.
+
+2. Bata por um minuto e em seguida coe. Reserve.
+
+3. Coloque um fio de óleo em uma panela em fogo médio, e refogue o alho, a cebola e o pimentão até ficarem levemente dourados.
+
+4. Junte os tomates picados e deixe cozinhar até que fiquem bem molinhos.  Amasse na própria panela com a ajuda de uma garfo para fazer um molho  natural.
+
+5. Acrescente o palmito, o champignon e o grão de bico, tempere com sal a gosto e refogue rapidamente por alguns minutos.
+
+6. Adicione o molho de tomate, a água(1/2 xícara), a mostarda e misture.
+
+7. Corrija o sal, se necessário, abaixe o fogo e deixe cozinhar por mais 5 minutos.
+
+8. Acrescente o leite de aveia e misture bem.
+
+9. Adicione a salsinha picada, misture e desligue.
+
+---
